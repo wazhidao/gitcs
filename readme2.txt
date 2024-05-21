@@ -8,4 +8,6 @@ Git is free software.
 23
 24
 25
-mainf1
+<<<<<<< HEAD
+mainf1f1
+>>>>>>> f1
