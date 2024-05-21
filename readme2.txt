@@ -8,10 +8,14 @@ Git is free software.
 23
 24
 25
-<<<<<<< HEAD
+
 mainf1f1
->>>>>>> f1
+
 
 dev
 tj1
 tj2
+
+
+dev cherry-pick
+
